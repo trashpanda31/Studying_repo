@@ -1,0 +1,60 @@
+{
+  "news": [
+    {
+      "title": "Global Summit on Climate Change Concludes",
+      "description": "World leaders gather to discuss actionable strategies to combat climate change and achieve carbon neutrality by 2050.",
+      "key_points": [
+        "Commitment to reduce global emissions by 30% by 2030.",
+        "Billion-dollar funding initiative for green energy projects.",
+        "Introduction of stricter regulations on industrial carbon footprints."
+      ],
+      "impact": [
+        "Increased international collaboration to tackle climate challenges.",
+        "Boosted investments in renewable energy sectors.",
+        "Heightened awareness among citizens about climate-friendly practices."
+      ]
+    },
+    {
+      "title": "Tech Giants Announce New AI Advancements",
+      "description": "Major technology companies reveal groundbreaking developments in artificial intelligence, promising to revolutionize industries.",
+      "key_points": [
+        "Launch of AI tools to enhance productivity in the workplace.",
+        "Breakthroughs in natural language processing for real-time translations.",
+        "AI-powered healthcare diagnostics for early disease detection."
+      ],
+      "impact": [
+        "Improved efficiency in industries like healthcare, finance, and logistics.",
+        "Expanded access to advanced technology for developing regions.",
+        "Concerns raised about privacy and ethical implications of AI use."
+      ]
+    },
+    {
+      "title": "Stock Market Rallies After Major Policy Shift",
+      "description": "Global stock markets see significant growth following the announcement of new economic policies aimed at stabilizing inflation.",
+      "key_points": [
+        "Interest rates adjusted to stimulate economic growth.",
+        "Increased investment in public infrastructure projects.",
+        "Tax relief for small and medium-sized enterprises."
+      ],
+      "impact": [
+        "Renewed confidence among investors.",
+        "Positive effects on job creation and economic recovery.",
+        "Mixed reactions from economists regarding long-term effects."
+      ]
+    },
+    {
+      "title": "Major Breakthrough in Cancer Research",
+      "description": "Scientists announce a revolutionary treatment for cancer that shows promising results in clinical trials.",
+      "key_points": [
+        "New drug targets cancer cells while leaving healthy cells unharmed.",
+        "80% success rate observed in initial trial phases.",
+        "Plans to expand trials to more patients globally."
+      ],
+      "impact": [
+        "Hope for millions of patients battling cancer worldwide.",
+        "Increased funding for further medical research.",
+        "Potential to reshape future cancer treatment protocols."
+      ]
+    }
+  ]
+}
