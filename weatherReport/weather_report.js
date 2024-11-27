@@ -1,9 +1,10 @@
 function showweatherDetails(event){
     event.preventDefault();
 
-    const city = document.getElementById(`city`).value;
+    const lon = document.getElementById(`lon`).value;
+    const lat = document.getElementById(`lat`).value;
     const apikey = `6f7604111b79bad126b09cdc0b0d07ee`;
-    const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apikey}&units=metric`;
+    const apiUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apikey}&units=metric`;
 
     fetch(apiUrl)
     .then(response => response.json())
